@@ -1,4 +1,5 @@
-- Hi there. I am Venkat👋.
+<h1 align="left">Hey!!👋, I'm Venkatesh Ram </h1> 
+<img align="center"  right="50px" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 - I am IT Undergraduate at Dr.Mahalingam College of Engineering and Technology (MCET),Pollachi,TN.
 - I love learning new Technologies and Contributing to Open-Source👽
 - => Recently Enjoying Problem Solving as well😁
