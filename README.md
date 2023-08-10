@@ -1,5 +1,5 @@
-<h1 align="left">Hey!!👋, I'm Venkatesh Ram </h1> 
-<img align="center"  right="50px" alt="coding" width="300" height="300" src="https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif">
+<h2 align="left">Hey!!👋, I'm Venkat </h2> 
+<img align="center"  right="50px" alt="coding" width="200" height="200" src="https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif">
 - I am IT Undergraduate at Dr.Mahalingam College of Engineering and Technology (MCET),Pollachi,TN.
 
 - I love learning new Technologies and Contributing to Open-Source👽
