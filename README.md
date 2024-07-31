@@ -5,7 +5,7 @@
 - I love learning new Technologies and Contributing to Open-Source👽
 - => Recently Enjoying Problem Solving as well😁
 - I’m Interested in Web-Designing,UI/UX🤖
-- I’m currently learning HTML,CSS,JAVASCRIPT 
+- I’m Know HTML,CSS,JAVASCRIPT,JAVA,MYSQL,AWS. 
 - I’m looking to collaborate on more Projects🤗
 - 📫 Feel free to reach out to me at vkvvenkatram@gmail.com
 
